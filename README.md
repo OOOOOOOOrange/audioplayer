@@ -16,4 +16,4 @@
 
 使用方法 ./audioplayer+视频文件路径
 
-如 ./mp4player /Users/mac/Desktop/2.mp4
+如 ./audioplayer /Users/mac/Desktop/2.mp4
